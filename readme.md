@@ -1,8 +1,16 @@
-## codingon_team4 프로젝트
+## 우리의 서울
 
-- 코딩온 파이썬 웹 과정 프로젝트 결과물 '우리의 서울'입니다.
-- 팀원은 박현우(본인), 이유영, 이성민입니다. 
-- Python 프레임워크인 Django와 HTML, CSS, Javascript 등을 이용하여 서울을 소개하는 웹 페이지를 제작하였습니다.
-- 배포는 네이버 클라우드 플랫폼으로 하였습니다.
+- 코딩온 파이썬 웹 과정 프로젝트 결과물 '우리의 서울'입니다. 
+- 서울에 대한 소개와 선정된 명소들에 대한 거리뷰, 키워드 검색등을 제공하는 웹 사이트입니다.  
+- 팀원은 박현우(본인), 이유영, 이성민입니다.
+
+- Front-end : HTML, CSS, JavaScript, BootStrap
+- Back-end : Django
+- 배포 : Naver Cloud Platform
+
+- 2021/01/26 아이디어 회의 + 개발 시작
+- 2021/01/27 ~ 2021/01/28 개발
+- 2021/01/28 Naver Cloud Platform을 통하여 배포
+- 2021/02 Secret Key 분리
 
 ![우리의서울](https://user-images.githubusercontent.com/46596758/106293378-49086900-6291-11eb-8d14-abba7d9c6c1d.JPG)
